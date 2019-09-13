@@ -9,4 +9,6 @@ This is visualization of KML files for road damage detection by AI tech. Color p
   </a>
 </p>
 
+<hr>
+
 For more detail, please contact me: muha.muttaqien@gmail.com
