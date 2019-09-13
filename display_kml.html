@@ -46,12 +46,16 @@
 
         kmlLayer.addListener('click', function(kmlEvent) {
           var text = kmlEvent.featureData.description;
-          showInContentWindow(text);
+          var status = kmlEvent.featureData.status;
+          var lat = kmlEvent.latLng.lat();
+          var lng = kmlEvent.latLng.lng();
+          
+          showInContentWindow(text, status, lat, lng);
         });
 
-        function showInContentWindow(text) {
+        function showInContentWindow(text, status, lat, lng) {
           var sidediv = document.getElementById('content-window');
-          sidediv.innerHTML = text;
+          sidediv.innerHTML = '<p>' + text + '</p>' + '<p>Status: ' + status + '<br>Lat: ' + lat + '<br>Lng: ' + lng + '</p>';
         }
       }
     </script>
