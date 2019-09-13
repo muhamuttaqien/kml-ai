@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="31">
+        <Placemark id="33">
+            <name>my pnt</name>
+            <ExtendedData>
+                <Data name="Katahou01_bridge">
+                    <value>Katahou01_bridge.jpg</value>
+                </Data>
+            </ExtendedData>
+            <Point id="32">
+                <coordinates>0.0, 0.0, 0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
