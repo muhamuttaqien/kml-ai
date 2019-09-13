@@ -7,4 +7,4 @@ This is visualization of KML files for road damage detection by AI tech.
   </a>
 </p>
 
-More detail, contact me: muha.muttaqien@gmail.com
+For more detail, please contact me: muha.muttaqien@gmail.com
