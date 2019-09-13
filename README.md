@@ -2,7 +2,9 @@
 This is visualization of KML files for road damage detection by AI tech.
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="https://muhamuttaqien.github.io/kml_ai/display_kml.html">
     <img src="https://muhamuttaqien.github.io/kml_ai/maps.png" alt="kml ai visualization">
   </a>
 </p>
+
+More detail, contact me: muha.muttaqien@gmail.com
