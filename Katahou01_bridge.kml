@@ -5,7 +5,7 @@
             <IconStyle id="5">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="6">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -21,7 +21,7 @@
             <IconStyle id="13">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="14">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -37,7 +37,7 @@
             <IconStyle id="21">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="22">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -53,7 +53,7 @@
             <IconStyle id="29">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="30">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -69,7 +69,7 @@
             <IconStyle id="37">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="38">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -85,7 +85,7 @@
             <IconStyle id="45">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="46">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -101,7 +101,7 @@
             <IconStyle id="53">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="54">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -117,7 +117,7 @@
             <IconStyle id="61">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="62">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -133,7 +133,7 @@
             <IconStyle id="69">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="70">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -149,7 +149,7 @@
             <IconStyle id="77">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="78">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -165,7 +165,7 @@
             <IconStyle id="85">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="86">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -181,7 +181,7 @@
             <IconStyle id="93">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="94">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -197,7 +197,7 @@
             <IconStyle id="101">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="102">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -213,7 +213,7 @@
             <IconStyle id="109">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="110">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -229,7 +229,7 @@
             <IconStyle id="117">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="118">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -245,7 +245,7 @@
             <IconStyle id="125">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="126">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -261,7 +261,7 @@
             <IconStyle id="133">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="134">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -277,7 +277,7 @@
             <IconStyle id="141">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="142">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -293,7 +293,7 @@
             <IconStyle id="149">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="150">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -309,7 +309,7 @@
             <IconStyle id="157">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="158">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -325,7 +325,7 @@
             <IconStyle id="165">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="166">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -341,7 +341,7 @@
             <IconStyle id="173">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="174">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -357,7 +357,7 @@
             <IconStyle id="181">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="182">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -373,7 +373,7 @@
             <IconStyle id="189">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="190">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -389,7 +389,7 @@
             <IconStyle id="197">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="198">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -405,7 +405,7 @@
             <IconStyle id="205">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="206">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -421,7 +421,7 @@
             <IconStyle id="213">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="214">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -437,7 +437,7 @@
             <IconStyle id="221">
                 <color>ff00ffff</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="222">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -453,7 +453,7 @@
             <IconStyle id="229">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="230">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -469,7 +469,7 @@
             <IconStyle id="237">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="238">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -485,7 +485,7 @@
             <IconStyle id="245">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="246">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -501,7 +501,7 @@
             <IconStyle id="253">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="254">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -517,7 +517,7 @@
             <IconStyle id="261">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="262">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -533,7 +533,7 @@
             <IconStyle id="269">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="270">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -549,7 +549,7 @@
             <IconStyle id="277">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="278">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -565,7 +565,7 @@
             <IconStyle id="285">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="286">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -581,7 +581,7 @@
             <IconStyle id="293">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="294">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -597,7 +597,7 @@
             <IconStyle id="301">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="302">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -613,7 +613,7 @@
             <IconStyle id="309">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="310">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -629,7 +629,7 @@
             <IconStyle id="317">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="318">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -645,7 +645,7 @@
             <IconStyle id="325">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="326">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -661,7 +661,7 @@
             <IconStyle id="333">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="334">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -677,7 +677,7 @@
             <IconStyle id="341">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="342">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -693,7 +693,7 @@
             <IconStyle id="349">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="350">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -709,7 +709,7 @@
             <IconStyle id="357">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="358">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -725,7 +725,7 @@
             <IconStyle id="365">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="366">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -741,7 +741,7 @@
             <IconStyle id="373">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="374">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -757,7 +757,7 @@
             <IconStyle id="381">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="382">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -773,7 +773,7 @@
             <IconStyle id="389">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="390">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -789,7 +789,7 @@
             <IconStyle id="397">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="398">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -805,7 +805,7 @@
             <IconStyle id="405">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="406">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -821,7 +821,7 @@
             <IconStyle id="413">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="414">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -837,7 +837,7 @@
             <IconStyle id="421">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="422">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -853,7 +853,7 @@
             <IconStyle id="429">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="430">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -869,7 +869,7 @@
             <IconStyle id="437">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="438">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -885,7 +885,7 @@
             <IconStyle id="445">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="446">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
@@ -901,7 +901,7 @@
             <IconStyle id="453">
                 <color>ffff0000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>0.2</scale>
                 <heading>0</heading>
                 <Icon id="454">
                     <href>http://maps.google.com/mapfiles/kml/shapes/road_shield3.png</href>
