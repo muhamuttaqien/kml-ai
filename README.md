@@ -15,5 +15,5 @@ This is visualization of KML files for road damage detection by AI tech, detecti
 
 <hr>
 
-Credits to Google Maps Api & Simplekml library.
+Credits to Google Maps Api & Simplekml library.\n
 For more detail, please contact me: muha.muttaqien@gmail.com
