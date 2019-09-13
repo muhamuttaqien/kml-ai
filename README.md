@@ -1,5 +1,5 @@
 # kml_ai
-This is visualization of KML files for road damage detection by AI tech.
+This is visualization of KML files for road damage detection by AI tech. Color points indicate the road damage according to its severivity level.
 
 <p align="center">
   <a href="https://muhamuttaqien.github.io/kml_ai/display_kml.html" target="_blank">
