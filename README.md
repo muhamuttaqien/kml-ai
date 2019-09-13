@@ -9,6 +9,10 @@ This is visualization of KML files for road damage detection by AI tech, detecti
   </a>
 </p>
 
+<p align="center">
+  <img src="https://muhamuttaqien.github.io/kml_ai/road.png" alt="kml ai visualization">
+</p>
+
 <hr>
 
 For more detail, please contact me: muha.muttaqien@gmail.com
