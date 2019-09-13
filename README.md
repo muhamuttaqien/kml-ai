@@ -16,4 +16,4 @@
 <hr>
 
 <p>Credits to Google Maps Api & Simplekml library.</p>
-For more detail, please contact me: muha.muttaqien@gmail.com
+<p>For more detail, please contact me: muha.muttaqien@gmail.com</p>
