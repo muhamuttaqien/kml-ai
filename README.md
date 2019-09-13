@@ -15,5 +15,5 @@
 
 <hr>
 
-<p>Credits to <a href="https://developers.google.com/maps/documentation/javascript/tutorial" target="_blank">Google Maps API</a> & <a href="https://simplekml.readthedocs.io/en/latest/" target="_blank">Simplekml library.</a></p>
+<p>Credits to <a href="https://developers.google.com/maps/documentation/javascript/tutorial" target="_blank">Google Maps API</a> & <a href="https://simplekml.readthedocs.io/en/latest/" target="_blank">Simplekml</a> library.</p>
 <p>For more detail, please contact me: <a href="mailto:muha.muttaqien@gmail.com">muha.muttaqien@gmail.com</a></p>
