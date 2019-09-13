@@ -1,5 +1,5 @@
 # kml_ai
-This is visualization of KML files for road damage detection by AI tech, detecting material damages in pixel levels (segmentation) by computer-vision-based technique. Color points below indicate the road damage corresponding to its severity level.
+<p>This is visualization of KML files for road damage detection by AI tech, detecting material damages in pixel levels (segmentation) by computer-vision-based technique. Color points below indicate the road damage corresponding to its severity level.</p>
 
 <br>
 
@@ -15,5 +15,5 @@ This is visualization of KML files for road damage detection by AI tech, detecti
 
 <hr>
 
-Credits to Google Maps Api & Simplekml library.\n
+<p>Credits to Google Maps Api & Simplekml library.</p>
 For more detail, please contact me: muha.muttaqien@gmail.com
