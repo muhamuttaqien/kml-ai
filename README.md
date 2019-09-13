@@ -5,7 +5,7 @@ This is visualization of KML files for road damage detection by AI tech, detecti
 
 <p align="center">
   <a href="https://muhamuttaqien.github.io/kml_ai/display_kml.html" target="_blank">
-    <img src="https://muhamuttaqien.github.io/kml_ai/maps-satelite.png" alt="kml ai visualization">
+    <img src="https://muhamuttaqien.github.io/kml_ai/maps.png" alt="kml ai visualization">
   </a>
 </p>
 
