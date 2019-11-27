@@ -3,7 +3,7 @@
     <Document id="1">
         <Style id="4">
             <IconStyle id="5">
-                <color>ffff0000</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -12,14 +12,14 @@
                 </Icon>
             </IconStyle>
             <LabelStyle id="7">
-                <color>ffffffff</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
             </LabelStyle>
         </Style>
         <Style id="13">
             <IconStyle id="14">
-                <color>ff008000</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -28,14 +28,14 @@
                 </Icon>
             </IconStyle>
             <LabelStyle id="16">
-                <color>ffffffff</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
             </LabelStyle>
         </Style>
         <Style id="22">
             <IconStyle id="23">
-                <color>ffff0000</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -44,14 +44,14 @@
                 </Icon>
             </IconStyle>
             <LabelStyle id="25">
-                <color>ffffffff</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
             </LabelStyle>
         </Style>
         <Style id="31">
             <IconStyle id="32">
-                <color>ffff0000</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -60,14 +60,14 @@
                 </Icon>
             </IconStyle>
             <LabelStyle id="34">
-                <color>ffffffff</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
             </LabelStyle>
         </Style>
         <Style id="40">
             <IconStyle id="41">
-                <color>ffff0000</color>
+                <color>ff000000</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
