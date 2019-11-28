@@ -3,7 +3,7 @@
     <Document id="1">
         <Style id="6">
             <IconStyle id="7">
-                <color>ff000000</color>
+                <color>ffff9900</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -19,7 +19,7 @@
         </Style>
         <Style id="15">
             <IconStyle id="16">
-                <color>ff000000</color>
+                <color>ff33aa00</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -35,7 +35,7 @@
         </Style>
         <Style id="24">
             <IconStyle id="25">
-                <color>ff000000</color>
+                <color>ffff9900</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -51,7 +51,7 @@
         </Style>
         <Style id="33">
             <IconStyle id="34">
-                <color>ff000000</color>
+                <color>ffff9900</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -67,7 +67,7 @@
         </Style>
         <Style id="42">
             <IconStyle id="43">
-                <color>ff000000</color>
+                <color>ffff9900</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -83,7 +83,7 @@
         </Style>
         <Style id="51">
             <IconStyle id="52">
-                <color>ff000000</color>
+                <color>ff33aa00</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
@@ -99,7 +99,7 @@
         </Style>
         <Style id="60">
             <IconStyle id="61">
-                <color>ff000000</color>
+                <color>ffff9900</color>
                 <colorMode>normal</colorMode>
                 <scale>0.2</scale>
                 <heading>0</heading>
