@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://muhamuttaqien.github.io/kml_ai/display_kml.html" target="_blank">
-    <img src="https://muhamuttaqien.github.io/kml_ai/satelite.png" alt="kml ai visualization">
+    ![](./satelite.png)
   </a>
 </p>
 
 <p align="center">
-  <img src="https://muhamuttaqien.github.io/kml_ai/road.png" alt="kml ai visualization">
+  ![](./road.png)
 </p>
 
 <hr>
